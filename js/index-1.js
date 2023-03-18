@@ -1,0 +1,12 @@
+const k1 = '5px';
+const k2 = '12djd334';
+const k3 = '12.45asdwe12';
+const k4 = 'qwqweeewq';
+const k1Number = Number.parseInt(k1);
+const k2Number = Number.parseInt(k2);
+const k3Number = Number.parseInt(k3);
+const k4Number = Number.parseInt(k4);
+console.log(Math.round(k1Number));
+console.log(Math.round(k2Number));
+console.log(Math.round(k3Number));
+console.log(Math.round(k4Number));

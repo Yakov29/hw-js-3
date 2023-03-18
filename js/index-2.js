@@ -1,0 +1,12 @@
+const k1 = '5px';
+const k2 = '12djd334';
+const k3 = '12.45asdwe12';
+const k4 = 'qwqweeewq';
+const k1Number = Number.parseFloat(k1);
+const k2Number = Number.parseFloat(k2);
+const k3Number = Number.parseFloat(k3);
+const k4Number = Number.parseFloat(k4);
+console.log(k1Number);
+console.log(k2Number);
+console.log(k3Number);
+console.log(k4Number);
